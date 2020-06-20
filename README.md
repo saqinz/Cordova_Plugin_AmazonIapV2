@@ -4,6 +4,8 @@ A git repository for Amazon IAP making it easy to import. I have added Package.j
 
 Install:
 cordova plugin add https://github.com/saqinz/Cordova_Plugin_AmazonIapV2
+It will add plug in named: com.amazon.device.iap.cpt.AmazonIapV2Plugin
+
 
 Usage Instructions
 https://developer.amazon.com/docs/cross-platform-plugins/cpp-use-the-iap-plugin-for-cordova.html
