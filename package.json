@@ -1,0 +1,19 @@
+{
+  "name": "com.amazon.device.iap.cpt.AmazonIapV2Plugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.amazon.device.iap.cpt.AmazonIapV2Plugin",
+    "platforms": [
+      "amazon-fireos",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-amazon-fireos",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
